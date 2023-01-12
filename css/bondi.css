@@ -122,3 +122,9 @@ body{
     transform: translateX(0);
 }
 /* End Our-work */
+
+/* Start stuff */
+.stuff .desription{
+    max-width: 500px;
+}
+/* EWnd stuff */
