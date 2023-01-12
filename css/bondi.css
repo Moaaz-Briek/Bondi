@@ -141,3 +141,9 @@ body{
     background-color: var(--green-color);
 }
 /* End Our Team */
+
+/* Start Project section */
+.project{
+    background-color: var(--dark-color);
+}
+/* End Project section */
